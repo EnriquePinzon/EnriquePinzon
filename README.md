@@ -7,7 +7,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
   
-- 🌱 I’m currently learning Spring Boot   
+- 🌱 I’m currently learning Spring & Spring Boot   
   
 
 - ❓ Ask me about anything related to Java,  HTML and CSS  
