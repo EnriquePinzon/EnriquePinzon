@@ -14,10 +14,11 @@
   
 
 - 🗂️ I’m looking to collaborate on Java and Web Projects.  
+
   
 
 <div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" height="250" width="" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" height="300" width="" />
 </div>  
   
 
