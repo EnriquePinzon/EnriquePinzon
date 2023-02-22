@@ -61,14 +61,10 @@
 <br/>  
 
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Connect with me  
-<div align="center">
-<a href="https://github.com/EnriquePinzon" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">  Connect with me  
+<p align="left"> <a href="https://discord.com/users/E X I T#7585" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="35" height="35" /></a>
+ <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/pinzon-enrique/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="35" height="35" /></a></p>
   
-
 <br/>  
 
 
@@ -84,7 +80,7 @@
 <br/>  
 <br/>
 
-<div align="left" ><img src="https://spotify-github-profile.vercel.app/api/view?uid=nlanvwrppxma7zr5njvfgfde8&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&bar_color=000000&bar_color_cover=true" align="left" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=nlanvwrppxma7zr5njvfgfde8&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" /></div>  
 
 <br/>  
 
